@@ -6,3 +6,16 @@
     position: sticky;
     top: 0;
 }
+.btn-clear-cart{
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    border-radius: 5px;
+    margin: 10px auto;
+    color: white;
+    width: 90%;
+    align-items: center;
+}
+.delete-icon-bar{
+    color: rgb(244, 248, 253);
+}
